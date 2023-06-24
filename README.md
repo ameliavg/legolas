@@ -1,2 +1,3 @@
-# legolas
-Legolas Chess Engine
+# Legolas Chess
+
+Java Chess Engine
